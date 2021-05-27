@@ -1,5 +1,5 @@
 {
-  "name": "webapp",
+  "name": "MarketPriceGap",
   "private": true,
   "dependencies": {
     "bootstrap": "3.3.6",

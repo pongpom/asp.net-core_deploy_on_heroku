@@ -51,7 +51,7 @@
 
   "publishOptions": {
     "include": [
-      "wwwroot",
+      "MarketPriceGap",
       "Views",
       "Areas/**/Views",
       "appsettings.json",
@@ -66,6 +66,6 @@
   },
 
   "tooling": {
-    "defaultNamespace": "WebApp"
+    "defaultNamespace": "MarketPriceGap"
   }
 }
