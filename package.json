@@ -1,10 +1,10 @@
 {
-  "name": "webapp",
+  "name": "MarketPriceGap",
   "version": "1.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ORuban/asp.net-core_deploy_on_heroku.git"
+    "url": "git+https://github.com/pongpom/MarketPriceGap"
   },
   "scripts": {
       "preinstall": "npm list bower -g || npm install bower -g",
