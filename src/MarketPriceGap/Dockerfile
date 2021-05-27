@@ -8,6 +8,10 @@ COPY interval.txt .
 
 WORKDIR /app
 
+RUN ["dotnet", "restore"]
+
+RUN ["dotnet", "build"]
+
 EXPOSE 5000/tcp
 
 ENTRYPOINT ["/entrypoint.sh"]
